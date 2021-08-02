@@ -1,2 +1,2 @@
 # CodeSpaces
-VSCode Spaces
+VSCode Codespaces
